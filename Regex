@@ -1,0 +1,15 @@
+abc
+123
+…\.
+[cmf]an
+[A-C] [n-p] [a-c]
+waz{2,}up
+aa+b*c+
+\d+ files? found\?
+\d\.\s+abc
+^Mission: successful$
+^(file.+)\.pdf$
+(\w+ (\d+))
+(\d+)x(\d+)
+I love (cats|dogs)
+.*
